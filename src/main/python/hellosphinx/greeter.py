@@ -1,7 +1,7 @@
 class Greeter(object):
 
     def __init__(self, message):
-        """Creates a new :class:`HelloSphinx` instance.
+        """Creates a new :class:`Greeter` instance.
 
         :param message: a suitable greeting message
         :type message: str
